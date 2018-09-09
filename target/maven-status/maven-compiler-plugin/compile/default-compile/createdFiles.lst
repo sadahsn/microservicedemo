@@ -1,0 +1,6 @@
+com\demo\microservice\model\SampleModel.class
+com\demo\microservice\Application.class
+com\demo\microservice\dao\BaseDAO.class
+com\demo\microservice\service\SampleService.class
+com\demo\microservice\controller\HomeController.class
+com\demo\microservice\service\SampleServiceImpl.class
